@@ -1,6 +1,8 @@
 # Charity Foundation Website Project
 
-An authentic project for a non-profit organization. Created with the next stack of technologies:
+An authentic project for a non-profit organization. The project was separated between several teams. Our part was the main page.
+
+#### Created with the next stack of technologies:
 
 * HTML5
 * CSS
