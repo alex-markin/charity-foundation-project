@@ -1,5 +1,15 @@
-# 18-web-plus-varvary-friends-fons
+# Charity Foundation Website Project
 
-Верстка отдельных разделов сайта для фонда «Друзья» от команды «Варвары», 18 поток Яндекс.Практикум
+An authentic project for a non-profit organization. Created with the next stack of technologies:
 
-Дата начало работы над проектом — 7 ноября 2022
+* HTML5
+* CSS
+* JavaScript
+* Figma
+* Git&Github (team of 5 participants)
+
+
+#### Funtionality: 
+* Responsive web design
+* Sliders
+* Adaptive design for mobile devices
